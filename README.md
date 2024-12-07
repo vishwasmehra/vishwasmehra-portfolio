@@ -1,7 +1,8 @@
 
 ## Getting Started
 
-Hi there, I am Vishwas Mehra welcome to my portfolio website designed using Next JS framework. I have used latest [v15].
+Hi there, I am Vishwas Mehra welcome to my portfolio website designed using Next JS framework. I have used latest [`v15`](https://nextjs.org/blog/next-15).
+
 Checkout the Next.Js framework below.     
 
 
