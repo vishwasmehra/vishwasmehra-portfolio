@@ -28,7 +28,7 @@ export default function ContactForm() {
     }
   })
 
-  const processForm: SubmitHandler<Inputs> = async data => {
+  const processForm: SubmitHandler<Inputs> = async () => {
     // const result = await sendEmail(data)
 
     // if (result?.error) {
